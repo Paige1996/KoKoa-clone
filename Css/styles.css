@@ -1,20 +1,24 @@
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/reset.css";
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/variables.css";
+@import "Css/components/alt-screen-header.css";
+@import "Css/components/badge.css";
+@import "Css/components/icon-row.css";
+@import "Css/components/nav-bar.css";
+@import "Css/components/no-mobile.css";
+@import "Css/components/screen-header.css";
+@import "Css/components/status-bar.css";
+@import "Css/components/user-component.css";
 
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/components/status-bar.css";
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/components/screen-header.css";
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/screens/login.css";
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/components/nav-bar.css";
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/screens/friends.css";
-@import " /Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/user-component.css";
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/components/badge.css";
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/screens/find.css";
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/components/icon-row.css";
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/screens/more.css";
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/components/alt-screen-header.css";
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/screens/setting.css";
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/screens/chat.css";
-@import "/Users/eunjoolee/Desktop/KoKoa clone/KoKoa-clone/Css/components/no-mobile.css";
+@import "Css/screens/chat.css";
+@import "Css/screens/find.css";
+
+@import "Css/screens/friends.css";
+@import "Css/screens/login.css";
+@import "Css/screens/more.css";
+@import "Css/screens/setting.css";
+
+@import "Css/reset.css";
+@import "Css/styles.css";
+@import "Css/variables.css";
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
